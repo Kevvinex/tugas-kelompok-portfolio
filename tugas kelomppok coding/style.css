@@ -1,0 +1,59 @@
+.dark-green {
+    background-color: rgb(106, 185, 75);
+}
+
+.light-green {
+    background-color: rgb(151, 199, 88);
+}
+
+.greeting {
+    font-weight: bold;
+    color: white;
+}
+
+.paragraph {
+    color: white;
+}
+
+.pale-white {
+    background-color: white;
+}
+
+.text-dark-green {
+    color: rgb(106, 185, 75);
+}
+
+.lighter-green {
+    color: rgb(140, 212, 71);
+}
+
+/* colors for process bar */
+
+.darkest {
+    background-color: rgb(56, 107, 38);
+}
+
+.darker {
+    background-color:rgb(74, 148, 47);
+}
+
+.light {
+    background-color: rgb(89, 197, 49);
+}
+
+.lightest {
+    background-color:rgb(105, 204, 69); 
+}
+
+/* colors ended */
+
+
+
+
+
+
+    
+  
+
+    
+
